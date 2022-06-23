@@ -1,2 +1,1 @@
-# smilga-2-tours
-Created with CodeSandbox
+## React Projects Starter APP
