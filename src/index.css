@@ -226,3 +226,12 @@ main {
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius);
 }
+
+.info-btn {
+  color: var(--clr-primary-5);
+  margin-left: 15px;
+}
+.info-btn:hover {
+  cursor: pointer;
+  color: var(--clr-green-light);
+}
